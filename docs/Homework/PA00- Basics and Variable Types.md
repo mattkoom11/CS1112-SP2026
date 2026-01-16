@@ -11,7 +11,7 @@ nav-order: 1
 
 **Objective:** The objective of this assignment is to introduce students to the PyCharm IDE and fundamentals of basic programming. By the end of this assignment, students should be able to understand and implement variables, type casting, arithmetic operations, printing, and commenting.
 
-[instruction](/CS1112-F2025/instruction/PA_00___Fix_it_Up_.pdf) <br>
+[instruction](../../instruction/PA_00___Fix_it_Up_.pdf) <br>
 [Starter Code](../../Starter%20Code%20For%20Homework/fix_it_up.py)
 ## 1 Task
 

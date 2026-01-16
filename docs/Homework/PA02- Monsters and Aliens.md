@@ -12,7 +12,7 @@ nav-order: 3
 ## Objective
 The objective of this assignment is to introduce students to the concept of conditional statements in Python while exploring a fun monsters and aliens theme. By the end of this assignment, students should be able to understand and implement if, else, and elif statements to make decisions based on different scenarios.
 
-[instruction](/cs1112basit/instruction/PA02__Monsters_and_Aliens.pdf)
+[instruction](../../instruction/PA02__Monsters_and_Aliens.pdf)
 ## Task
 
 Note. This assignment can be completed in two different ways, when conditional statements are referred to in the write-up, they can either be, (i) if-elif-else statements, or (ii) match-case statements, depending on your choice of implementation.

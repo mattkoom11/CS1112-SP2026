@@ -11,7 +11,7 @@ nav-order: 2
 
 **Objective**: The objective of this assignment is for students to learn how to utilize and combine basic turtle graphic commands to produce a unique drawing. By the end of this assignment, students should be able to understand proper use of imports and master attributes of the turtle import.
 
-[instructions](/cs1112basit/instruction/PA01__Turtle_Drawing.pdf)
+[instruction](../../instruction/PA01__Turtle_Drawing.pdf)
 ## 1 Task
 For this assignment, you will design a program that produces a creative drawing using turtle functions. **Please do not draw just a simple polygon (i.e. one circle), we will not consider assignments with these submissions.** However, you may use a combination of polygons and lines to build a bigger drawing such as a house or a landscape. **Try to be creative!**
 

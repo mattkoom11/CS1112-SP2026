@@ -13,7 +13,7 @@ nav-order: 5
 
 The objective of this assignment for students is to learn how to integrate conditional statements, loops, the break statement, and the continue statement in Python while building a simple mini-game. By the end of this assignment, students should be able to understand how using loops can more effectively complete tasks that are repetitive and integrate conditional statements within loops to do specific tasks under specific conditions.
 
-[instruction](/cs1112basit/instruction/PA04__Guessing_Game.pdf)
+[instruction](../../instruction/PA04__Guessing_Game.pdf)
 ## Task
 
 For this assignment, you will design a program and complete a function that is designed to play a game where the user (you) will think of a number and give the computer a limited number of tries to guess what the number that the user is thinking of.

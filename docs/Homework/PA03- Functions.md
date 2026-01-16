@@ -34,7 +34,7 @@ This assignment introduces students to writing functions in Python, including de
    ```
 5. Submit your file `my_functions.py` to Gradescope by 11:00pm on Wednesday, February 18th, 2026.
 
-[instruction](/cs1112basit/instruction/PA03__Functions.pdf)
+[instruction](../../instruction/PA03__Functions.pdf)
 ## Task
 You're starting a new class off right when you notice, gee, it seems like I'm being asked to do a lot of busywork. It's almost like you could automate your homework problems instead of doing everything by hand! At this moment, you remember that you can use functions to do just that!
 
