@@ -4,9 +4,9 @@ layout: default
 nav_order: 2    
 ---
 
-[Full Syllabus](../syllabus/syllabus.pdf)
+[Full Syllabus](../syllabus/CS1112 - Intro To Prog - Syllabus - 2026 Spring.pdf)
 
-### CS 1112 | Prof. N. Basit | Fall 2025
+### CS 1112 | Prof. N. Basit | Spring 2026
 
 ### — Instructor
 
@@ -14,7 +14,7 @@ nav_order: 2
 |---------------------------------|-------------------------------------------------------------------------------------------------------------------|------------------------------------|
 | Nada Basit (basit@virginia.edu) | ➢ Mondays: 10:30am - 12:00pm<br>➢ Wednesdays: 10:00am - 11:00am<br>➢ Other times: by appointment only (email me!) | In-person, in my office – Rice 405 |
 
-Instructor Office Hours begin on Monday, September 8, 2025.  
+Instructor Office Hours begin on Monday, January 12, 2026.  
 (Email if you wish to meet sooner!)
 
 Important notes:
@@ -24,7 +24,7 @@ Important notes:
 
 ### — Course Information
 
-Meeting dates: August 27, 2025 to December 8, 2025
+Meeting dates: January 12, 2026 to April 28, 2026
 
 Lecture:
 
@@ -43,7 +43,7 @@ Do your best to attend class regularly. If you miss a lab, you are missing out o
 
 ### Course TAs, Contact Information, and TA Office Hours:
 
-We are fortunate to have many great teaching assistants for this course. TA’s will provide office hours (tutoring), assist with in-class “lab” activities, help with grading, and do other course tasks. TA names, emails, and their office hours will be posted on the course Google Calendar (linked to via Canvas); all in-person Office Hours begin on Monday, January 29, 2024.
+We are fortunate to have many great teaching assistants for this course. TA’s will provide office hours (tutoring), assist with in-class “lab” activities, help with grading, and do other course tasks. TA names, emails, and their office hours will be posted on the course Google Calendar (linked to via Canvas); all in-person Office Hours begin on Monday, January 12, 2026.
 
 Head TAs:
 
@@ -52,11 +52,14 @@ Head TAs are each assigned a role and serve as the point-of-contact for this rol
 | Head TA Name        | Email               | Head TA Role / Point-of-Contact |
 |---------------------|---------------------|---------------------------------|
 | Bonny Koo           | uck8up@virginia.edu | Course Admin                    |
-| Jackson Le          | wnj9tx@virginia.edu | Course Admin                    |
+| Ethan Chien         | vbs3kt@virginia.edu | Course Admin                    |
 | Niveen Abdul-Mohsen | bvn9ad@virginia.edu | Quiz and Quiz Grading           |
+| Sanjana Hossain     | cjh8az@virginia.edu | Quiz and Quiz Grading           |
 | Julie Fitzhugh      | yzc5ht@virginia.edu | Homework and Homework Grading   |
-| Kayla Kim           | rkf9wd@virginia.edu | Office Hours Admin.             |
-| Jackson Le          | wnj9tx@virginia.edu | Website Admin.                  |
+| TBD                 | xxxx@virginia.edu   | In-Class "Lab" Activities       |
+| Kayla Kim           | rkf9wd@virginia.edu | Office Hours                    |
+| TBD                 | xxxx@virginia.edu   | Piazza Admin.                   |
+| Matthew Kim         | vbp9qa@virginia.edu | Course Website Management (not Canvas) |
 
 
 * Important note: When sending email to Head TAs, always include “CS 1112” somewhere in your email subject header. This will allow the TAs to filter your emails and respond quicker.
