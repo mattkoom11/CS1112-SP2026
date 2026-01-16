@@ -3,7 +3,7 @@ title: Home
 layout: home
 nav_order: 1
 ---
-# CS1112 F25 
+# CS1112 SP26 
 ## Introduction to Programming
 
 This is a first course in programming, software development, and computer science. It introduces computing fundamentals and an appreciation of computational thinking. No previous programming experience is required. The course provides an introduction to the Python programming language including topics such as variables, types (Python types emphasized are: ints, floats, booleans, strings, lists, tuples, dictionaries, and files), functions, conditionals, repetition (loops), console and file input/output, reading from the web, and regular expressions. 
