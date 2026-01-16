@@ -7,7 +7,7 @@ nav-order: 7
 
 # PA06: Class Finder
 
-**Due by 11:00pm on Wednesday, November 5th, 2025** <br>    
+**Due by 11:00pm on Wednesday, April 1st, 2026** <br>    
 
 [PDF Instructions](../../instruction/PA06__Class_Finder.pdf)
 [Starter Code](../../Starter%20Code%20For%20Homework/class_finder.py)

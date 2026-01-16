@@ -192,7 +192,7 @@
   type: exam
 
 - topic: Strings
-  date: 3/2/2026
+  date: 2/27/2026
   lectures: 
       - time: PDF
         link: ../lectures/day21.pdf
@@ -232,7 +232,7 @@
       - topic: 20.1-20.3
 
 - topic: Intro to Tuples
-  date: 3/20/2026
+  date: 3/16/2026
   lectures: 
       - time: PDF
         link: ../lectures/day25.pdf
@@ -241,7 +241,7 @@
   notes: Quiz 5 (Loops + Strings)
 
 - topic: More Tuples
-  date: 3/25/2026
+  date: 3/18/2026
   lectures: 
       - time: PDF
         link: ../lectures/day26.pdf
@@ -249,8 +249,8 @@
       - topic: 11.1, 11.3
   notes: PA04 - Guessing Game (Loops)
 
-- topic: Intro to Regular Expressions (regEx)
-  date: 3/27/2026
+- topic: Intro to Dictionaries
+  date: 3/20/2026
   lectures: 
       - time: PDF
         link: ../lectures/day27.pdf
@@ -258,13 +258,39 @@
       - topic: 13.1-13.4
 
 - topic: More Dictionaries
-  date: 3/30/2026
+  date: 3/23/2026
   lectures: 
       - time: PDF
         link: ../lectures/day28.pdf
   readings:
       - topic: 13.1-13.4
   notes: Quiz 6 (Lists & Tuples)
+
+- topic: Nested Data Structures
+  date: 3/25/2026
+  lectures: 
+      - time: PDF
+        link: ../lectures/day28.pdf
+  readings:
+      - topic: 7.4, 12.6
+  notes: PA05 - Strings, Lists, Tuples
+
+- topic: Intro to Regular Expressions (regEx)
+  date: 3/27/2026
+  lectures: 
+      - time: PDF
+        link: ../lectures/day27.pdf
+  readings:
+      - topic: 25.1-25.4
+
+- topic: regEx
+  date: 3/30/2026
+  lectures: 
+      - time: PDF
+        link: ../lectures/day29.pdf
+  readings:
+      - topic: 25.1-25.4
+  notes: Quiz 7 (Dictionaries & Nested Structures)
 
 - topic: RegEx Activity Day
   date: 4/1/2026
@@ -273,6 +299,10 @@
         link: ../lectures/day29.pdf
   readings:
       - topic: 25.1-25.4
+  notes: PA06 - Dictionaries, Nested Structures
+
+- topic: Exam 2 Review
+  date: 4/3/2026
 
 - topic: EXAM 2
   date: 4/6/2026
@@ -285,6 +315,9 @@
         link: ../lectures/day34.pdf
   readings:
       - topic: 16.2, 26.1
+
+- topic: File Reading w/ regEx
+  date: 4/10/2026
 
 - topic: File Writing
   date: 4/13/2026
