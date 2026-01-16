@@ -7,7 +7,7 @@ nav-order: 5
 
 # PA04: Guessing Game: Loops and Conditionals in Python
 
-**Due by: 11:00pm on Wednesday, October 22nd, 2025**
+**Due by: 11:00pm on Wednesday, March 25th, 2026**
 
 ## Objective
 

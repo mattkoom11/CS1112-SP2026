@@ -7,7 +7,7 @@ nav-order: 2
 
 # PA01: Turtle Drawing
 
-**Due by 11:00pm on Wednesday, September 17th, 2025** <br>    
+**Due by 11:00pm on Wednesday, February 4th, 2026** <br>    
 
 **Objective**: The objective of this assignment is for students to learn how to utilize and combine basic turtle graphic commands to produce a unique drawing. By the end of this assignment, students should be able to understand proper use of imports and master attributes of the turtle import.
 

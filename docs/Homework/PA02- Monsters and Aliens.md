@@ -7,7 +7,7 @@ nav-order: 3
 
 # PA02: Monsters and Aliens
 
-**Due by 11:00pm on Wednesday, September 24th, 2025** <br>    
+**Due by 11:00pm on Wednesday, February 11th, 2026** <br>    
 
 ## Objective
 The objective of this assignment is to introduce students to the concept of conditional statements in Python while exploring a fun monsters and aliens theme. By the end of this assignment, students should be able to understand and implement if, else, and elif statements to make decisions based on different scenarios.

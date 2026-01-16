@@ -7,7 +7,7 @@ nav-order: 4
 
 # PA03 Functions: Introduction to Python Functions
 
-**Due by 11:00pm on Wednesday, October 10th, 2025** <br>    
+**Due by 11:00pm on Wednesday, February 18th, 2026** <br>    
 
 ## Objective
 This assignment introduces students to writing functions in Python, including defining functions using the `def` keyword, declaring a function's parameters, returning values from functions, and calling functions within other functions. By the end of this assignment, students should be able to understand how to declare a function, how to use the function parameter(s), how to return a value from that function, and how to call that function, including from within other functions.
@@ -32,7 +32,7 @@ This assignment introduces students to writing functions in Python, including de
    my_functions.add_string_contents(numeric_string)
    # ... # more tests, etc. for the other functions
    ```
-5. Submit your file `my_functions.py` to Gradescope by 11:00pm on Wednesday, September 27, 2023.
+5. Submit your file `my_functions.py` to Gradescope by 11:00pm on Wednesday, February 18th, 2026.
 
 [instruction](/cs1112basit/instruction/PA03__Functions.pdf)
 ## Task

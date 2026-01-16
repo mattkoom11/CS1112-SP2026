@@ -7,7 +7,7 @@ nav-order: 1
 
 # PA00: Fix It Up!
 
-**Due by: 11:00pm on Wednesday, September 10th, 2025**
+**Due by: 11:00pm on Wednesday, January 28th, 2026**
 
 **Objective:** The objective of this assignment is to introduce students to the PyCharm IDE and fundamentals of basic programming. By the end of this assignment, students should be able to understand and implement variables, type casting, arithmetic operations, printing, and commenting.
 
