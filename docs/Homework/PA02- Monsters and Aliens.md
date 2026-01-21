@@ -71,15 +71,13 @@ You must cite any and every source you consult, other than those explicitly prov
 #### Submitting on Gradescope
 
 1. Go to Gradescope (linked in Canvas course website)
-2. Click on PA01 – Turtle Drawing in the assignment list on Gradescope
-3. Upload your Python program as `my_turtle.py`.
-4. Click Browse Files to upload a screenshot of your drawing that was produced by using the turtle library
-5. Click the upload button at the bottom right corner to submit both files!
-6. Remember to include your name, computing ID, and resources in your comments!! (See section 3.1 of this document.
+2. Click on PA02 – Monsters and Aliens in the assignment list on Gradescope
+3. Upload your Python program as `monsters_and_aliens.py`.
+4. Remember to include your name, computing ID, and resources in your comments!! (See section 2.1 of this document.)
 
 You should submit your code to Gradescope. If you are having trouble with your submission, you should double check the following common problems:
 
-1. Make sure you are only submitting two (2) files, a screenshot of the drawing and file called `my_turtle.py` *exactly*
+1. Make sure you are only submitting one (1) file, and it is called `monsters_and_aliens.py` *exactly*
 
 *This assignment will be graded by hand, and therefore will not have a Gradescope autograder. That is, you will not see a score as soon as you submit.*
 

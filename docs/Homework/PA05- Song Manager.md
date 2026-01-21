@@ -7,7 +7,7 @@ nav-order: 6
 
 # PA05: Song Manager
 
-**Due by: 11:00pm Wednesday, March 25th, 2026**
+**Due by: 11:00pm on Wednesday, March 25th, 2026**
 
 [PDF Instructions](../../instruction/PA05__Song_Manager.pdf)
 [Starter Code](../../Starter%20Code%20For%20Homework/song_manager.py)
