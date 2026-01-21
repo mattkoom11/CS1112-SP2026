@@ -39,10 +39,13 @@
   lectures: 
       - time: PDF
         link: ../lectures/day5.pdf
-      - time: ica A
+  activities:
+      - name: ica A
         link: ../ICA/DAY5/A/A_pseudocode_activity_ica.py
-      - time: ica B
+        alt: ICA A for Section 001
+      - name: ica B
         link: ../ICA/DAY5/B/B_pseudocode_activity_ica.py
+        alt: ICA B for Section 002
   notes: MOST students should submit Syllabus Quiz by this date
 
 - topic: Introduction to Turtles & Imports
@@ -50,10 +53,13 @@
   lectures: 
       - time: PDF
         link: ../lectures/day6.pdf
-      - time: ica A
+  activities:
+      - name: ica A
         link: ../ICA/DAY6/A/A_turtle_with_pseudocode_ica.py
-      - time: ica B
+        alt: ICA A for Section 001
+      - name: ica B
         link: ../ICA/DAY6/B/B_turtle_with_pseudocode_ica.py
+        alt: ICA B for Section 002
   readings:
       - topic: 5.3
   notes: Quiz 1 (Basics)
@@ -63,10 +69,13 @@
   lectures: 
       - time: PDF
         link: ../lectures/day7.pdf
-      - time: ica A
+  activities:
+      - name: ica A
         link: ../ICA/DAY7&DAY8/A/A_drawing_zigzag_ica.py
-      - time: ica B
+        alt: ICA A for Section 001
+      - name: ica B
         link: ../ICA/DAY7&DAY8/B/B_drawing_zigzag_ica.py
+        alt: ICA B for Section 002
   notes: PA00 - Basics & Variable Types, Syllabus Quiz Due
 
 - topic: Turtle Racing
@@ -80,10 +89,13 @@
   lectures: 
       - time: PDF
         link: ../lectures/day9.pdf
-      - time: ica A
+  activities:
+      - name: ica A
         link: ../ICA/DAY9/A/A_turtle_conditionals_ica.py
-      - time: ica B
+        alt: ICA A for Section 001
+      - name: ica B
         link: ../ICA/DAY9/B/B_turtle_conditionals_ica.py
+        alt: ICA B for Section 002
   readings:
       - topic: 6.1
   notes: Quiz 2 (Turtles)
@@ -93,10 +105,13 @@
   lectures: 
       - time: PDF
         link: ../lectures/day10.pdf
-      - time: ica A
+  activities:
+      - name: ica A
         link: ../ICA/DAY10/A/A_conditional_ica.py
-      - time: ica B
+        alt: ICA A for Section 001
+      - name: ica B
         link: ../ICA/DAY10/B/B_conditional_ica.py
+        alt: ICA B for Section 002
   readings:
       - topic: 6.1-6.2, 6.4
   notes: PA01 - Turtle Drawing (Turtles)
@@ -114,10 +129,13 @@
   lectures: 
       - time: PDF
         link: ../lectures/day12.pdf
-      - time: ica A
+  activities:
+      - name: ica A
         link: ../ICA/DAY12/A/A_function_basics_ica.py
-      - time: ica B
+        alt: ICA A for Section 001
+      - name: ica B
         link: ../ICA/DAY12/B/B_function_basics_ica.py
+        alt: ICA B for Section 002
   readings:
       - topic: 5.1-5.2, 8.1-8.3
   notes: Quiz 3 (Booleans & Conditionals)
@@ -136,10 +154,13 @@
   lectures: 
       - time: PDF
         link: ../lectures/day14.pdf
-      - time: ica A
+  activities:
+      - name: ica A
         link: ../ICA/DAY14/A/A_sphere.py
-      - time: ica B
+        alt: ICA A for Section 001
+      - name: ica B
         link: ../ICA/DAY14/B/B_sphere.py
+        alt: ICA B for Section 002
   readings:
       - topic: 5.1-5.2, 8.1-8.3
 
@@ -148,10 +169,13 @@
   lectures: 
       - time: PDF
         link: ../lectures/day15.pdf
-      - time: ica A
+  activities:
+      - name: ica A
         link: ../ICA/DAY15/A/A_loops.py
-      - time: ica B
+        alt: ICA A for Section 001
+      - name: ica B
         link: ../ICA/DAY15/B/B_loops.py
+        alt: ICA B for Section 002
   readings:
       - topic: 7.1-7.3, 7.6-7.7, 17.1-17.2
   notes: Quiz 4 (Functions)
@@ -161,10 +185,13 @@
   lectures: 
       - time: PDF
         link: ../lectures/day16.pdf
-      - time: ica A
+  activities:
+      - name: ica A
         link: ../ICA/DAY16/A/A_password_ica.py
-      - time: ica B
+        alt: ICA A for Section 001
+      - name: ica B
         link: ../ICA/DAY16/B/B_password_ica.py
+        alt: ICA B for Section 002
   readings:
       - topic: 7.1-7.3, 7.6-7.7
   notes: PA03 - Functions
@@ -174,10 +201,13 @@
   lectures: 
       - time: PDF
         link: ../lectures/day17.pdf
-      - time: ica A
+  activities:
+      - name: ica A
         link: ../ICA/DAY17/A/A_debugging.py
-      - time: ica B
+        alt: ICA A for Section 001
+      - name: ica B
         link: ../ICA/DAY17/B/B_debugging.py
+        alt: ICA B for Section 002
   readings:
       - topic: 4.3
 

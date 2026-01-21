@@ -100,6 +100,16 @@ The schedule will be flexible as we cover each topic. We might spend some extra 
         <br>
         {% endif %}
         {% if day.activities %}
+        {% assign date_parts = day.date | split: "/" %}
+        {% assign schedule_month = date_parts[0] | plus: 0 %}
+        {% assign schedule_day = date_parts[1] | plus: 0 %}
+        {% assign schedule_year = date_parts[2] | plus: 0 %}
+        {% assign schedule_timestamp = schedule_year | times: 10000 | plus: schedule_month | times: 100 | plus: schedule_day %}
+        {% assign today_year = site.time | date: "%Y" | plus: 0 %}
+        {% assign today_month = site.time | date: "%m" | plus: 0 %}
+        {% assign today_day = site.time | date: "%d" | plus: 0 %}
+        {% assign today_timestamp = today_year | times: 10000 | plus: today_month | times: 100 | plus: today_day %}
+        {% if schedule_timestamp <= today_timestamp %}
         In-Class Activity:
         {% for pdf in day.activities %}
         {% unless forloop.first %}
@@ -111,6 +121,7 @@ The schedule will be flexible as we cover each topic. We might spend some extra 
         <span title="{{pdf.alt}}">{{pdf.name}}</span> 
         {% endif %}
         {% endfor %}
+        {% endif %}
         {% endif %}
         </span>
     {% endif %}
