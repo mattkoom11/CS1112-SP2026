@@ -158,9 +158,15 @@
       - name: ica A
         link: ../ICA/DAY14/A/A_sphere.py
         alt: ICA A for Section 001
+      - name: ica A test
+        link: ../ICA/DAY14/A/A_spheretest.py
+        alt: ICA A Test File for Section 001
       - name: ica B
         link: ../ICA/DAY14/B/B_sphere.py
         alt: ICA B for Section 002
+      - name: ica B test
+        link: ../ICA/DAY14/B/B_spheretest.py
+        alt: ICA B Test File for Section 002
   readings:
       - topic: 5.1-5.2, 8.1-8.3
 
