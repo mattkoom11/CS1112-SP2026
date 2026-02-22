@@ -95,20 +95,19 @@ The schedule will be flexible as we cover each topic. We might spend some extra 
         {% endfor %}
         {% endif %}
 
-
-        {% if (day.lectures or day.readings) and day.activities %}
+        {% if day.activities %}
+        {% if day.lectures or day.readings or day.videos %}
         <br>
         {% endif %}
-        {% if day.activities %}
         In-Class Activity:
-        {% for pdf in day.activities %}
+        {% for activity in day.activities %}
         {% unless forloop.first %}
         -
         {% endunless %}
-        {% if pdf.link %}
-        <a href="{{pdf.link}}" alt="{{pdf.alt}}">{{pdf.name}}</a> 
+        {% if activity.link %}
+        <a href="{{activity.link}}" alt="{{activity.alt}}">{{activity.name}}</a> 
         {% else %}
-        <span title="{{pdf.alt}}">{{pdf.name}}</span> 
+        <span title="{{activity.alt}}">{{activity.name}}</span> 
         {% endif %}
         {% endfor %}
         {% endif %}
