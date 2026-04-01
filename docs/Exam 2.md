@@ -15,6 +15,7 @@ parent: Exam Info
         <li><a href="https://docs.google.com/document/d/1W28eW5XdPHuUZoTuzp1hMFMcAkDmpP3aICWEW-ZtuRk/edit" style="color: blue; text-decoration: none;">Practice Questions 1</a></li>
         <li><a href="https://docs.google.com/document/d/1zge3EUECNdWyJsh5Mry6fXKX-u4VrrRVC-x30PP86Ok/edit" style="color: blue; text-decoration: none;">Practice Questions 2</a></li>
         </ul>
+    <p style="color: black;"><em>These past exams do not necessarily represent the format and content of the current exam this semester. These exams are provided only to give you a sampling of past questions. The final decision about the current exam format, exam contents, and question style, lies with the professor.</em></p>
 </div>
 
 [//]: # ()
@@ -38,7 +39,7 @@ parent: Exam Info
     - Knowing how to access and manipulate key-value pairs.
     - Recognizing that dictionaries are mutable and unordered.
 
-4. **String Slicing and Indexing**
+4. **String Slicing, Indexing, and Functions**
     - Understanding how to slice and index strings in Python.
     - Knowing the syntax and effects of slicing operations.
 
@@ -46,7 +47,3 @@ parent: Exam Info
     - Familiarity with the basics of using regular expressions in Python.
     - Understanding how to use functions from the `re` module to perform pattern matching.
     - Recognizing special sequences and metacharacters in RegEx patterns.
-
-6. **Functions**
-    - Defining and calling functions.
-    - Understanding the scope of variables within functions.

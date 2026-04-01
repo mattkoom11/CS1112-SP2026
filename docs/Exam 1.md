@@ -14,6 +14,7 @@ parent: Exam Info
         <li><a href="https://docs.google.com/document/d/1DcSE0CAuQXopkAtqgT3kQIuTaGc_VtBETcDS2WOh720/edit" style="color: blue; text-decoration: none;">Spring 24 Exam 1</a></li>
         <li><a href="https://docs.google.com/document/d/1TC6ksTJ5FgMhixS41TEZwP3CQXApUX3jAcsCzyAnSVk/edit" style="color: blue; text-decoration: none;">Some additional practice</a></li>
     </ul>
+    <p style="color: black;"><em>These past exams do not necessarily represent the format and content of the current exam this semester. These exams are provided only to give you a sampling of past questions. The final decision about the current exam format, exam contents, and question style, lies with the professor.</em></p>
 </div>
 
 1. **Variables and Data Types**
